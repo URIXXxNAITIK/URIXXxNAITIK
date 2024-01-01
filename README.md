@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @URIXXxNAITIK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... ṀĀKĪṆGŚ PROGRAM AND SPAM BOT 
+- 🌱 I’m currently learning ...  PYTHON 
+
 
 <!---
 URIXXxNAITIK/URIXXxNAITIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-THIS IS MY FIRST README.md
+                                        HEY GUYES 
 
 =>
 <h1 align="center"><b>[⚡] 𝐔𝐑𝐈𝐗𝐗 𝐗 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 [⚡]</b></h1>
